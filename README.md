@@ -49,19 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/ZhengQinyu?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ZhengQinyu?style=social)
-![GitHub repos](https://img.shields.io/github/repos/ZhengQinyu?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/ZhengQinyu?style=social)
-
-</div>
-
----
-
 ### 🐍 Contribution Graph
 
 ![snake](https://raw.githubusercontent.com/ZhengQinyu/ZhengQinyu/output/github-contribution-grid-snake-dark.svg)
