@@ -51,7 +51,7 @@
 
 ### 🐍 Contribution Graph
 
-![snake](https://raw.githubusercontent.com/ZhengQinyu/ZhengQinyu/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/imknn/imknn/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -72,7 +72,7 @@
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-izqy.top-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://izqy.top)
-[![GitHub](https://img.shields.io/badge/GitHub-ZhengQinyu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZhengQinyu)
+[![GitHub](https://img.shields.io/badge/GitHub-imknn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imknn)
 
 </div>
 
